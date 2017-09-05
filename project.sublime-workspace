@@ -1,0 +1,1098 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_ref_id"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Join",
+				"JoinAdmin"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"carousel-",
+				"carousel-control \tBootstrap 3 Class"
+			],
+			[
+				"carousel-i",
+				"carousel-inner \tBootstrap 3 Class"
+			],
+			[
+				"ca",
+				"carousel-indicators \tBootstrap 3 Class"
+			],
+			[
+				"car",
+				"carousel \tBootstrap 3 Class"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"te",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"col-lg-o",
+				"col-lg-offset-4 \tBootstrap 3 Class"
+			],
+			[
+				"col",
+				"col-lg-10 \tBootstrap 3 Class"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"cha",
+				"chat-"
+			],
+			[
+				"parse",
+				"parse_qs"
+			],
+			[
+				"A",
+				"AboutSerializer"
+			],
+			[
+				"ser",
+				"serializer"
+			],
+			[
+				"se",
+				"serializer"
+			],
+			[
+				"seri",
+				"serializers"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"Gallery",
+				"GalleryAdmin"
+			],
+			[
+				"About",
+				"AboutAdmin"
+			],
+			[
+				"containr",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"true",
+				"TrueFalseQuestionForm"
+			],
+			[
+				"qui",
+				"quiz"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"qu",
+				"quiz"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"quiz",
+				"quiz_pk"
+			],
+			[
+				"questio",
+				"question_pk"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"Qu",
+				"Quiz"
+			],
+			[
+				"q",
+				"quiz_form"
+			],
+			[
+				"course",
+				"course_id"
+			],
+			[
+				"cou",
+				"course"
+			],
+			[
+				"Q",
+				"QuizForm"
+			],
+			[
+				"Te",
+				"TextField"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"step",
+				"step"
+			],
+			[
+				"Course",
+				"CourseAdmin"
+			],
+			[
+				"Step",
+				"StepInline"
+			],
+			[
+				"sta",
+				"staticfiles_urlpatterns"
+			],
+			[
+				"Message",
+				"MessegageCounter"
+			],
+			[
+				"on",
+				"on_chosen_inline_result"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"ans",
+				"answerer"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"quer",
+				"query_string"
+			],
+			[
+				"on_",
+				"on_callback_query"
+			],
+			[
+				"from",
+				"from_id"
+			],
+			[
+				"Inli",
+				"InlineKeyboardButton"
+			],
+			[
+				"Inline",
+				"InlineKeyboardMarkup"
+			],
+			[
+				"bg",
+				"bg-info \tBootstrap 3 Class"
+			],
+			[
+				"container",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"h1",
+				"h1\tTag"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"nu",
+				"num_rows"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"wrap",
+				"flex-wrap"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"r",
+				"row-reverse"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ma",
+				"marker-start"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"my",
+				"my-pic-overlay"
+			],
+			[
+				"min",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "emailgatherer/urls.py",
+			"settings":
+			{
+				"buffer_size": 167,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailgatherer/models.py",
+			"settings":
+			{
+				"buffer_size": 475,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailgatherer/forms.py",
+			"settings":
+			{
+				"buffer_size": 137,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailgatherer/admin.py",
+			"settings":
+			{
+				"buffer_size": 249,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bahman/settings.py",
+			"settings":
+			{
+				"buffer_size": 3195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailgatherer/views.py",
+			"settings":
+			{
+				"buffer_size": 1309,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailgatherer/templates/share.html",
+			"settings":
+			{
+				"buffer_size": 496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/home-style.css",
+			"settings":
+			{
+				"buffer_size": 36,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bahman/urls.py",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "emailgatherer/templates/first_page.html",
+			"settings":
+			{
+				"buffer_size": 573,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 437.0,
+		"last_filter": "package in",
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Projects/Django/bahman",
+		"/F/Projects/Django/bahman/assets",
+		"/F/Projects/Django/bahman/assets/css",
+		"/F/Projects/Django/bahman/bahman/__pycache__",
+		"/F/Projects/Django/bahman/emailgatherer"
+	],
+	"file_history":
+	[
+		"/F/Projects/Django/learning_site/courses/models.py",
+		"/F/Projects/Django/learning_site/learning_site/views.py",
+		"/F/Projects/Django/learning_site/learning_site/urls.py",
+		"/F/Projects/Django/learning_site/courses/views.py",
+		"/F/Projects/Django/learning_site/courses/urls.py",
+		"/F/Projects/Django/bahman/bahman/urls.py",
+		"/F/Projects/Django/bahman/templates/base.html",
+		"/F/Projects/Django/bahman/templates/home.html",
+		"/F/Projects/Django/bahman/assets/css/about-style.css",
+		"/F/Projects/Django/bahman/templates/about.html",
+		"/F/Projects/Django/bahman/assets/css/home-style.css",
+		"/F/Projects/Django/bahman/bahman/settings.py",
+		"/F/Projects/Django/bahman/emailgatherer/urls.py",
+		"/F/Projects/Django/bahman/emailgatherer/views.py",
+		"/F/Projects/Django/bahman/bahman/views.py",
+		"/F/Projects/Django/bahman/emaigatherer/urls.py",
+		"/F/Projects/Django/companyapp/companyapp/urls.py",
+		"/F/Projects/Django/bahman/bahman/templates/home.html",
+		"/F/Projects/Django/bahman/emaigatherer/views.py",
+		"/F/Projects/Django/bahman/bahman/wsgi.py",
+		"/F/Projects/Django/companyapp/appmanagerapi/urls.py",
+		"/F/Projects/Django/companyapp/appmanagerapi/views.py",
+		"/F/Projects/Django/companyapp/appmanagerapi/admin.py",
+		"/F/Projects/Django/companyapp/appmanagerapi/templates/appmanagerapi/about.html",
+		"/F/Projects/Django/companyapp/appmanagerapi/models.py",
+		"/F/Projects/Django/companyapp/appmanagerapi/serializers.py",
+		"/F/Projects/Django/companyapp/companyapp/consumers.py",
+		"/F/Projects/Django/companyapp/companyapp/routing.py",
+		"/F/Projects/Django/companyapp/companyapp/settings.py",
+		"/F/Projects/Django/companyapp/appmanagerapi/consumers.py",
+		"/F/Projects/Django/companyapp/routing.py",
+		"/F/Projects/Django/companyapp/about/models.py",
+		"/F/Projects/Django/companyapp/comments/models.py",
+		"/F/Projects/Django/companyapp/comments/urls.py",
+		"/F/Projects/Django/companyapp/about/templates/about/about.html",
+		"/F/Projects/Django/companyapp/about/views.py",
+		"/F/Projects/Django/companyapp/templates/layout.html",
+		"/F/Projects/Django/companyapp/about/admin.py",
+		"/F/Projects/Django/companyapp/about/urls.py",
+		"/F/Projects/Django/learning_site/templates/layout.html",
+		"/F/Projects/Django/learning_site/learning_site/settings.py",
+		"/F/Projects/Django/restfuldjango/restfuldjango/settings.py",
+		"/F/Projects/Django/learning_site/courses/templates/courses/step_detail.html",
+		"/F/Projects/Django/learning_site/courses/templates/courses/question_form.html",
+		"/F/Projects/Django/learning_site/courses/templates/courses/course_list.html",
+		"/F/Projects/Django/learning_site/courses/forms.py",
+		"/F/Projects/Django/learning_site/courses/templates/courses/quiz_form.html",
+		"/F/Projects/Django/learning_site/assets/style/layout.css",
+		"/F/Projects/Django/learning_site/courses/admin.py",
+		"/F/Projects/Django/learning_site/learning_site/forms.py",
+		"/F/Projects/Django/learning_site/templates/suggestion_form.html",
+		"/F/Projects/Django/learning_site/courses/templates/courses/course_detail.html",
+		"/F/Projects/Django/learning_site/courses/static/courses/style/layout.css",
+		"/F/Projects/Django/learning_site/courses/templates/courses/course_nav.html",
+		"/F/Projects/Django/learning_site/courses/templatetags/course_extras.py",
+		"/F/Projects/Django/learning_site/courses/static/courses/style/layout3.css",
+		"/F/Projects/Django/learning_site/templates/home.html",
+		"/F/Projects/Django/learning_site/manage.py",
+		"/C/Users/Bahman/Desktop/firstBot.py",
+		"/C/Users/Bahman/Desktop/Python Projects/stockCrawler.py",
+		"/C/Users/Bahman/Desktop/index.html",
+		"/C/Users/Bahman/Desktop/Digikala/style.css",
+		"/C/Users/Bahman/Desktop/Digikala/index.html",
+		"/C/Users/Bahman/Desktop/My Simple Blog/style.css",
+		"/C/Users/Bahman/Desktop/My Simple Blog/index.html",
+		"/C/Users/Bahman/Desktop/My Simple Blog - Copy/style.css",
+		"/C/Users/Bahman/Desktop/My Simple Blog - Copy/index.html",
+		"/C/xampp/htdocs/cms/sinle.php",
+		"/C/xampp/htdocs/cms/index.php",
+		"/C/xampp/htdocs/cms/css/normilize.css",
+		"/C/xampp/htdocs/cms/css/style.css",
+		"/C/Users/Bahman/Desktop/inedx.html",
+		"/C/xampp/htdocs/mystore/get_data.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2d2d2d",
+			"6b6b6b",
+			"Messages",
+			"render",
+			"step_deta",
+			"courses",
+			"step_deta",
+			"TextInput",
+			"IntegerField",
+			"description",
+			"order",
+			"description",
+			"total_questions",
+			"shuffle_answer",
+			"order",
+			"prompt",
+			"description",
+			"order",
+			"title",
+			"order",
+			"title",
+			"ModelFrom",
+			"admin.site.register(models.Answers)",
+			")",
+			"everse",
+			"courses_id",
+			"detail_url",
+			"step",
+			"text_detail",
+			"text",
+			"AAGagbsMbR0u4gj1r5V2yOF_5KiiA3gQk9E",
+			"span",
+			"<span class= \"icon-bar\"></span>",
+			"80px",
+			"font",
+			"MyElement",
+			"slider",
+			"MyElement",
+			"Home",
+			"-webkit-padding-start: 40px;",
+			"menu",
+			"ul",
+			"url",
+			"src",
+			"<img",
+			"frontend",
+			"150px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "emailgatherer/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "emailgatherer/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "emailgatherer/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "emailgatherer/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bahman/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1087,
+								1087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "emailgatherer/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "emailgatherer/templates/share.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/css/home-style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "bahman/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								966,
+								966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "emailgatherer/templates/first_page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								573
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

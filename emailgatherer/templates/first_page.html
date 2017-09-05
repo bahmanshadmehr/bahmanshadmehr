@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load static from staticfiles %}
+
+{% block title %}Enter Your Email{% endblock %}
+
+{% block links %}<link rel="stylesheet" type="text/css" href="{% static 'css/home-style.css' %}">{% endblock %}
+
+{% block content %}
+	<h1 class="display-2 text-white text-center" style="margin-top: 100px;">Enter An Email:</h1>
+	<div class="row justify-content-center" style="margin-top: 50px;">
+			<form method="POST" action="">
+				{{ form.as_p }}
+				{% csrf_token %}
+				<input type="submit" value="Join" name="" class="btn">
+			</form>
+	</div>
+{% endblock %}

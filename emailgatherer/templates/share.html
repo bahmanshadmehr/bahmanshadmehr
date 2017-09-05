@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load static from staticfiles %}
+
+{% block title %}Enter Your Email{% endblock %}
+
+{% block links %}<link rel="stylesheet" type="text/css" href="{% static 'css/home-style.css' %}">{% endblock %}
+
+{% block content %}
+	<h1 class="display-2 text-white text-center" style="margin-top: 100px;">Your refrence id is:</h1>
+	<div class=" justify-content-center" style="margin-top: 50px;">
+			<h2 class="display-2 text-center text-white">{{ ref_id }}</h2>
+	</div>
+{% endblock %}
